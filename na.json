@@ -1,0 +1,21 @@
+{"success":true,"message":"","radios":
+
+[
+
+
+{"id":"14336","number":"1","name":"Radio Kosmos Namibia","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_1.jpg","streamUrl":"https://edge.iono.fm/xice/88_medium.aac?p=embed","yourmuzeId":null,"state":"1"},
+{"id":"14337","number":"2","name":"Radio Wave 96.7 FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_2.png","streamUrl":"http://ice8.securenetsystems.net/967FM?type=.flv","yourmuzeId":null,"state":"1"},
+{"id":"14338","number":"3","name":"West Coast FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_3.png","streamUrl":"http://91.121.205.70:7648/;","yourmuzeId":null,"state":"1"},
+{"id":"14339","number":"4","name":"Hitradio Namibia","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_4.png","streamUrl":"http://85.25.217.22:8000/hitradio-namibia.mp3","yourmuzeId":null,"state":"1"},
+{"id":"14340","number":"5","name":"NBC Oshiwambo","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_5.png","streamUrl":"http://197.243.227.19:8808/","yourmuzeId":null,"state":"0"},
+{"id":"14341","number":"6","name":"Nam-radio","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_6.png","streamUrl":"https://stream.radio.co/s966d536f2/listen","yourmuzeId":null,"state":"1"},
+{"id":"14342","number":"7","name":"Energy 100FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_7.png","streamUrl":"https://s2.stationplaylist.com:7094/listen.aac","yourmuzeId":null,"state":"0"},
+{"id":"14343","number":"8","name":"Kanaal 7 102.6 FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_8.png","streamUrl":"http://129.232.169.93:8098/;","yourmuzeId":null,"state":"1"},
+{"id":"14344","number":"9","name":"Radio 99","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_9.png","streamUrl":"http://ice31.securenetsystems.net/99FM?type=.flv","yourmuzeId":null,"state":"1"},
+{"id":"14345","number":"10","name":"1FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_10.png","streamUrl":"http://streamer.planetradio.com.na:2199/tunein/1fm-stream.pls","yourmuzeId":null,"state":"0"},
+{"id":"14346","number":"11","name":"Omulunga Radio","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_11.jpg","streamUrl":"http://ice31.securenetsystems.net/OMULUNGA","yourmuzeId":null,"state":"1"},
+{"id":"14347","number":"12","name":"Fresh FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_12.jpeg","streamUrl":"http://ice31.securenetsystems.net/FRESHFM","yourmuzeId":null,"state":"1"},
+{"id":"14348","number":"13","name":"Jacc Rocks 103.5 FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/z_radio_namibia_13.png","streamUrl":"http://ice31.securenetsystems.net/JACCFM","yourmuzeId":null,"state":"1"},
+{"id":"16187","number":"14","name":"Eagle FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/na/master/namibia_14.png","streamUrl":"http://s2.stationplaylist.com:7030/listen.aac+","yourmuzeId":null,"state":"1"}
+
+],"country":{"id":"124","name":"namibia","logo":"../../_upload/_flags/namibia.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
